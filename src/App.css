@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+td,
+th {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+.Tabs {
+  background-color: blueviolet;
+}
+
+.btn {
+  font-size: 16px;
+  height: 40px;
+}
+
+.form {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.txtfield {
+  display: flex;
+  flex-direction: column;
+}
+
+.text-danger {
+  color: red;
+  margin-top: 5px;
+  display: grid;
+}
